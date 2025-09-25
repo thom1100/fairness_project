@@ -3,3 +3,5 @@ __pycache__/
 __ipynb_checkpoint__/
 .cache_sklearn/
 *.py
+.venv
+.DS_Store
